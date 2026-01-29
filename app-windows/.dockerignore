@@ -1,0 +1,14 @@
+﻿**/.git
+**/.gitignore
+**/README.md
+**/.vscode
+**/.vs
+**/obj
+**/*.user
+**/*.suo
+*.zip
+*.bak
+web.config.bak
+app-content-old/
+muxx-aplicacao-completa.zip
+pgweb-muxx-app.zip
